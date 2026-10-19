@@ -4,7 +4,7 @@ Contratos de los eventos que se intercambian los sistemas del portafolio: el sob
 
 Este repositorio es lo único que comparten los sistemas; ninguno depende del código de otro.
 
-Estado: **hito 0 (preparación)**. Los esquemas y el CI que los valida llegan en el hito 8, que es paralelizable con el resto de la Fase 1.
+Estado: **hito 0 completado**. Los esquemas y el CI que los valida llegan en el hito 8, que es paralelizable con el resto de la Fase 1.
 
 ## Sobre estándar
 
